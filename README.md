@@ -3,7 +3,7 @@
 
 
 ## Demo
-#### Here is a working live demo :  https://crypto-hunter.netlify.app/
+#### Here is a working live demo :  https://dynamic-fairy-b70077.netlify.app/
 
 ## Built with 
 
